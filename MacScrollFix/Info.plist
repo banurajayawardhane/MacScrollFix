@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>Mac Scroll Fix needs Accessibility access to intercept and smooth mouse scroll events system-wide.</string>
+	<key>Privacy - Accessibility Usage Description</key>
+	<string>Mac Scroll Fix needs Accessibility access to smooth mouse scrolling.</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>SMPrivilegedExecutables</key>
+	<dict/>
+</dict>
+</plist>
