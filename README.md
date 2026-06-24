@@ -29,7 +29,7 @@ Mac Scroll Fix sits in your menu bar and intercepts only mouse scroll events —
 
 ## Download
 
-**[⬇️ Download MacScrollFix v1.0.0](./MacScrollFix.app.zip)**
+**[⬇️ Download MacScrollFix v1.0.0](./MacScrollFix.zip)**
 
 > Previous versions in [`/releases`](./releases)
 
